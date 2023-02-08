@@ -1,4 +1,4 @@
-# Project's title: Awesome Profile Cards Minions version
+# Project's title: Awesome Profile Cards Minions version ![eye](https://user-images.githubusercontent.com/113979188/217599555-c951d7c4-ecfd-4743-871e-145692701eb3.png)
 
 ## Description
 
