@@ -26,19 +26,15 @@ En este apartado podrás elegir entre tres paletas.
 
 **2. RELLENA** ✍🏻
 
-![Captura de pantalla 2023-02-09 114949](https://user-images.githubusercontent.com/113979188/217795363-13c350fd-c324-43d7-b025-4fb0c5b0fce0.png)
-
 Aquí deberás rellenar todos los apartados para que se reflejen en tu tarjeta. Si alguno de los datos están en un formato no deseado, la casilla se pondrá de color rojo.
 
 - En caso de que no quieras añadir una imagen de perfil, podrás añadir un GIF. 
 - El número de teléfono *no* es obligatorio.
 - En el apartado de Linkedin y de GitHub con añadir tu perfil es suficiente, no es necesario usar la "url" completa. 
 
-![Video CV](https://user-images.githubusercontent.com/113979188/217795149-37ad6af7-a668-485a-88db-7b8218c3bbec.gif)
+![Captura de pantalla 2023-02-09 114949](https://user-images.githubusercontent.com/113979188/217795363-13c350fd-c324-43d7-b025-4fb0c5b0fce0.png)
 
 **3. COMPARTE** 🎁
-
-
 
 Terminamos compartiendo la tarjeta, donde se generará una "url" para que la compartas donde quieras. O también tendrás la opción de compartirla a través de Twitter, donde se generará un twit automático. 
 En el caso de que no se cree la tarjeta, se deberá a que hay algún error en los datos introducidos, por lo que automáticamente abrirá el apartado en el que hay un error para que puedas solucionarlo.  
