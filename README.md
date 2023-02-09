@@ -1,53 +1,50 @@
-# Project's title: Awesome Profile Cards Minions version 
+# Awesome Profile Cards Minions version 
 
-## Description
+¡¡ Bienvenido, si estás en la misma situación que Gru este es tu sitio !!
 
-Welcome to the minion's profile card factory place! If you came to this site, you'll probably be looking, as Gru, for a good way of organizing and distinguish your own minions. I have good news, this is your place! Thanks to this intuitive web site, your workers can easily create their own profile card, with all the relevant information and social networks to be differentiated from the others, and even to share it in Twitter!
+Gru nos ha encargado un sitio donde pueda organizar y distinguir a sus propios minions. Con estas pequeñas indicaciones nos pusimos manos a la obra y.. ¡voilà!
 
-## Technologies
+Una página web, **responsive**, donde tus trabajadores podrán crear fácilmente su propia tarjeta de perfil, con toda la información relevante y las redes sociales para diferenciarse de los demás, ¡e incluso compartirla en Twitter!
 
-This web page was made using HTML5, SaSS, plain JS, localStorage and the Adalab Web Starter Kit, who uses NodeJS, Gulp and JSON.
+![giphy (1)](https://user-images.githubusercontent.com/113979188/217794195-d9f57d8c-ff02-4496-9759-70816bc32cc8.gif)
 
-Please, take into account that all HTML, SaSS and JS files are divided in partials. In the case of JS files, they are ordered by number following the moment the code is used. In the case of HTML and CSS, the are related, each HTML file has one SaSS file associated named after it. All of them have descriptive names according to the place of the page they are developing or working on.
+## Inicio 🚩
 
-## Table of contents and How to Use the Project
+Comenzamos con una página de bienvenida donde deberás hacer click en "Comenzar". 
 
-### Main landing
+![Video CV](https://user-images.githubusercontent.com/113979188/217794733-4df1baba-90c8-4b49-8fd7-5719da8e3363.gif)
 
-It is the welcoming page, you should click on 'Comenzar'('Start') to go the create cards page. All the other elements are static.
+## Creación de la tarjeta
 
-### Create card landing
+Como podrás observar encontramos diferentes apartados: 
 
-On the left, you can see a toggled form that covers all the options you have to modified and personalized your card. This form can only open one section at a time, and to close one, you need to open another.
+**1. DISEÑA** 🎨
 
-The sections are:
+En este apartado podrás elegir entre tres paletas. 
 
-- 'Diseña'('Design'): you can choose between 3 different palettes.
-- 'Rellena'('Fill'): you need to fill all the boxes so the information in your cards is updated. All fields are compulsory except the telephone number ('Teléfono'). We are not sure that all minions have one! If any of the information happens to be in an unwanted format, the box is going to become red.
-  NOTE: you can add either an image or a GIF that represents you for your card.
-  NOTE: in LinkedIn and GitHub boxes, you only need to add your profile, not the complete url.
-- 'Comparte': allows you to create your card in two different ways: by giving you an url to share everywhere you like, or by creating for you a new twit in you Twitter account ready to be sent. If there is anything wrong with your information that you didn't detected before, this won't create your card, but to reopened the 'Rellena' section so you can fix it.
+![Captura de pantalla 2023-02-09 114908](https://user-images.githubusercontent.com/113979188/217795320-1e29678a-40b3-4c51-a746-0c4543758dc7.png)
 
-On the right, there is the preview, that means that you can see how is your card looking at any moment of the developing process.
-Together with this, you can always click the reset button if you are unhappy an restart everything.
+**2. RELLENA** ✍🏻
 
-As this page works with localStorage, don't you be worry if your cards is reloaded against your will, because all the information you added, will be there when you come back :)
+![Captura de pantalla 2023-02-09 114949](https://user-images.githubusercontent.com/113979188/217795363-13c350fd-c324-43d7-b025-4fb0c5b0fce0.png)
 
-## How to install the project
+Aquí deberás rellenar todos los apartados para que se reflejen en tu tarjeta. Si alguno de los datos están en un formato no deseado, la casilla se pondrá de color rojo.
 
-If you want to download this project, you'll need to:
+- En caso de que no quieras añadir una imagen de perfil, podrás añadir un GIF. 
+- El número de teléfono *no* es obligatorio.
+- En el apartado de Linkedin y de GitHub con añadir tu perfil es suficiente, no es necesario usar la "url" completa. 
 
-1. Clone all files in this repository
-2. Open it and run 'npm install' in your terminal. One this is done, you will have created a new_modules folder that will allow you to use the page.
-3. Run 'npm-start' in your terminal This will open the page in your predetermined browser.
-4. You can now play, my minion!
+![Video CV](https://user-images.githubusercontent.com/113979188/217795149-37ad6af7-a668-485a-88db-7b8218c3bbec.gif)
 
-## Credits
+**3. COMPARTE** 🎁
 
-This web page is created by Marta, Ana, Celia and Laura under the Adalab supervision, taking into account a given design that, in the end, was modified to personalized the experience.
 
-## Thanks to
 
-You user! We're very grateful that you are using our page, so we only want you to enjoy yourself using it, as well as we did developing it!
+Terminamos compartiendo la tarjeta, donde se generará una "url" para que la compartas donde quieras. O también tendrás la opción de compartirla a través de Twitter, donde se generará un twit automático. 
+En el caso de que no se cree la tarjeta, se deberá a que hay algún error en los datos introducidos, por lo que automáticamente abrirá el apartado en el que hay un error para que puedas solucionarlo.  
 
-Now, hands to the job!
+## Curiosidades 🤓
+
+- A la derecha, está la vista previa, que significa que puedes ver cómo está quedando tu tarjeta en cualquier momento. Junto a esto, encontrarás un botón de reinicio, si no estás contento con el proceso que estás realizando solo deberás clicarlo.
+
+- Esta página funciona con **localStorage**, lo que signfica que si tu tarjeta se recarga en contra de tu voluntad no te preocupes porque toda la información que has añadido, estará ahí cuando vuelvas 
